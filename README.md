@@ -246,6 +246,8 @@ See [`templates/post-incident-review-template.md`](templates/post-incident-revie
 - [Security Frameworks](https://github.com/garynair/security-frameworks) - A companion curated list covering the control frameworks (NIST CSF's Respond/Recover functions) this list's IR process operationalizes.
 - [VAPT](https://github.com/garynair/vapt) - A companion curated list covering the offensive-testing side of security, including MITRE ATT&CK, which is commonly used to map an incident's observed techniques during investigation.
 - [Cloud Security](https://github.com/garynair/cloud-security) - A companion curated list covering cloud-specific security controls, relevant when a DR strategy relies on cloud-based failover.
+- [Federal Compliance](https://github.com/garynair/federal-compliance) - A companion curated list covering FedRAMP, CMMC, and NIST SP 800-53/171 — the federal-sector-specific controls and SSP/POA&M process related to this list.
+- [Healthcare Compliance](https://github.com/garynair/healthcare-compliance) - A companion curated list covering HIPAA, HITECH, and HITRUST CSF.
 
 ---
 
