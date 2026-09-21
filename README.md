@@ -216,7 +216,7 @@ See [`templates/post-incident-review-template.md`](templates/post-incident-revie
 - [GCIH (GIAC Certified Incident Handler)](https://www.giac.org/certifications/certified-incident-handler-gcih/) - SANS/GIAC's widely recognized incident handling certification, closely aligned with the PICERL model.
 - [GCFA (GIAC Certified Forensic Analyst)](https://www.giac.org/certifications/certified-forensic-analyst-gcfa/) - SANS/GIAC's certification for deeper digital forensics and incident response work.
 - [CBCP (Certified Business Continuity Professional)](https://www.dri.org/certification/cbcp) - DRI International's widely held business continuity certification, covering BIA methodology and BC/DR program management.
-- [MBCI (Member of the Business Continuity Institute)](https://www.thebci.org/qualifications.html) - The BCI's professional membership/certification path, an internationally recognized alternative to DRI's credentials.
+- [MBCI (Member of the Business Continuity Institute)](https://www.thebci.org/training-qualifications.html) - The BCI's professional membership/certification path, an internationally recognized alternative to DRI's credentials.
 
 ---
 
