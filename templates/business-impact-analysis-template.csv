@@ -1,0 +1,4 @@
+Business Function,Function Owner,Maximum Tolerable Downtime (MTD),Dependencies (Systems/People/Vendors),Financial Impact per Hour of Downtime,Regulatory/Compliance Impact,Derived RTO,Derived RPO,Recovery Priority Rank,Last Reviewed
+Customer payment processing,Jane Smith - Payments Lead,4 hours,"Primary payment processor, network connectivity, payments database",$50000,PCI-DSS Requirement 12.10 incident response obligations,2 hours,15 minutes,1,2026-09-01
+Customer support operations,Support Ops Lead,24 hours,"CRM, ticketing system, support staff availability",$5000,None specific,12 hours,4 hours,3,2026-09-01
+Payroll processing,HR Director,72 hours (must complete before next pay cycle),"Payroll system, banking integration, HR data",Reputational/employee trust impact,State wage-payment timing laws,48 hours,24 hours,2,2026-09-01
