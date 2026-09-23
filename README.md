@@ -1,3 +1,5 @@
+![Incident Response & Business Continuity / Disaster Recovery](docs/banner.png)
+
 # Incident Response & Business Continuity / Disaster Recovery
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
